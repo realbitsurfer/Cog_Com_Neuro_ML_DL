@@ -36,7 +36,7 @@ chapters:
   - file: introduction/pages/introduction_3.md
   - file: introduction/pages/introduction_4.md
       sections:
-      - file: introduction/notebooks/linear_algebra/linear_algebra_intro.ipynb
+      - file: introduction/notebooks/linear_algebra/Intro.ipynb
       - file: introduction/notebooks/linear_algebra/LinearAlgebra_math.ipynb
   - file: introduction/pages/introduction_5.md
   - file: introduction/pages/introduction_6.md
