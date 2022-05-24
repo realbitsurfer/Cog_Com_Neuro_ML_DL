@@ -1,14 +1,10 @@
 # Introduction IV - Linear algebra
 
-Text goes here...
-
 ## Topics 💡👨🏻‍🏫 
 
 In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
 
 ### Linear algebra 
-
-Text goes here...
 
 #### Objectives 📍
 - Understand why math / linear algebra is important for doing data science
@@ -23,8 +19,6 @@ Text goes here...
 - Have a great time
 
 #### Materials 📓
-
-Text goes here...
 
 ### Numpy 🥼🧑🏿‍🔬👩🏻‍🔬
 
@@ -42,18 +36,7 @@ Text goes here...
 
 #### Materials 📓
 
-Text goes here...
-
 ## tasks for subsequent meeting 🖥️✍🏽📖
 
-### re-cap Python lectures
+### Go through the additional material
 
-### install software
-
-### go through neuroscience intro section
-
-### optional/reading/further materials
-
-#### articles
-
-#### videos
